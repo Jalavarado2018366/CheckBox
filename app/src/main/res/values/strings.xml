@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppCheckBox</string>
+    <string name="txt_PrimerValor">Ingrese el primer valor</string>
+    <string name="txt_SegundoValor">Ingrese el Segundo valor</string>
+    <string name="check_suma">Sumar</string>
+    <string name="check_resta">Restar</string>
+    <string name="check_multiplicar">Multiplicar</string>
+    <string name="check_dividir">Dividir</string>
+    <string name="button_Operacion">Calcular</string>
+    <string name="textView_Resutado">Resultado</string>
+</resources>
